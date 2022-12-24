@@ -1,0 +1,1 @@
+export const USER_CREDENTIAL = 'SET_USER_CREDENTIAL';

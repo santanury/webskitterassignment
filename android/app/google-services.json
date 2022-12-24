@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135921491121",
+    "project_id": "webskitterinventory",
+    "storage_bucket": "webskitterinventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135921491121:android:e3694ca592ebe9551f9690",
+        "android_client_info": {
+          "package_name": "com.webskitterinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135921491121-ncapvftfu55vrhto5mckps9a0ne6u6vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDXtH62loKRYUYFqR7NTbkieYMA8Ebcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135921491121-ncapvftfu55vrhto5mckps9a0ne6u6vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
